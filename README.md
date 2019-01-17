@@ -1,5 +1,4 @@
 # BioinforMatikz
-BioinforMatikz tools
 For Easy-Modeller :
 First please make sure that :
 
